@@ -1,0 +1,5 @@
+H:\赵老师\NetABC 第二天\11 try-catch异常捕获\bin\Debug\11 try-catch异常捕获.exe
+H:\赵老师\NetABC 第二天\11 try-catch异常捕获\bin\Debug\11 try-catch异常捕获.pdb
+H:\赵老师\NetABC 第二天\11 try-catch异常捕获\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\赵老师\NetABC 第二天\11 try-catch异常捕获\obj\x86\Debug\11 try-catch异常捕获.exe
+H:\赵老师\NetABC 第二天\11 try-catch异常捕获\obj\x86\Debug\11 try-catch异常捕获.pdb

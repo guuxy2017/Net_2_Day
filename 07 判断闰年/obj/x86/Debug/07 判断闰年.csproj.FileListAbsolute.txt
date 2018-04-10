@@ -1,0 +1,5 @@
+H:\赵老师\NetABC 第二天\07 判断闰年\bin\Debug\07 判断闰年.exe
+H:\赵老师\NetABC 第二天\07 判断闰年\bin\Debug\07 判断闰年.pdb
+H:\赵老师\NetABC 第二天\07 判断闰年\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\赵老师\NetABC 第二天\07 判断闰年\obj\x86\Debug\07 判断闰年.exe
+H:\赵老师\NetABC 第二天\07 判断闰年\obj\x86\Debug\07 判断闰年.pdb

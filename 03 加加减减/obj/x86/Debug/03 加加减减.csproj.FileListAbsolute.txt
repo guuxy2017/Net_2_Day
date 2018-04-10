@@ -1,0 +1,5 @@
+H:\赵老师\NetABC 第二天\03 加加减减\bin\Debug\03 加加减减.exe
+H:\赵老师\NetABC 第二天\03 加加减减\bin\Debug\03 加加减减.pdb
+H:\赵老师\NetABC 第二天\03 加加减减\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\赵老师\NetABC 第二天\03 加加减减\obj\x86\Debug\03 加加减减.exe
+H:\赵老师\NetABC 第二天\03 加加减减\obj\x86\Debug\03 加加减减.pdb
